@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python and Java
+- 🔭 I’m currently working on Python, Java and C++
 - 🌱 I’m currently learning Flutter
 - ⛈️ Want to learn: Crytography
 - 👯 I’m looking to collaborate on Impactful, Real Life  or Fictious Projects
